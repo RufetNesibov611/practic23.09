@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\bin\Debug\net6.0\ConsoleApp23.09.exe
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\bin\Debug\net6.0\ConsoleApp23.09.deps.json
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\bin\Debug\net6.0\ConsoleApp23.09.runtimeconfig.json
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\bin\Debug\net6.0\ConsoleApp23.09.dll
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\bin\Debug\net6.0\ConsoleApp23.09.pdb
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\ConsoleApp23.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\ConsoleApp23.09.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\ConsoleApp23.09.AssemblyInfo.cs
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\ConsoleApp23.09.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\ConsoleApp23.09.dll
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\refint\ConsoleApp23.09.dll
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\ConsoleApp23.09.pdb
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\ConsoleApp23.09.genruntimeconfig.cache
+C:\Users\hp\source\repos\ConsoleApp23.09\ConsoleApp23.09\obj\Debug\net6.0\ref\ConsoleApp23.09.dll
